@@ -1,5 +1,5 @@
 tic
-clear 
+clear
 close all
 clc
 
@@ -28,14 +28,13 @@ w_PL=0.0001;
 weights=[1;0;0;w_PL];% first value is the weight of cost L1, second is the weight for cost L2, third for cost L3 and the last or the power losses
 %%
 tf=19000;
- simout=sim('Range_ext_TCST_NoSDKF',tf);
- %MPC_KF is the complete file
+simout=sim('Range_ext_TCST_NoSDKF',tf);
+%MPC_KF is the complete file
 %% main, CBN and SDKF
-% save('US06_L1','t_sim','D1','soc_KF','soc_M','J','I_cd',...
-%       'v_t','PLoss','P_IO','I_b','I_cells',...
-%       'v_t_m','y_KF','I_b_m','P_KF');
-%%  
-  [range(end) t_sim(end)]
+save('US06_L1','t_sim','D1' ,'soc_M','J','I_cd',...
+  'v_t','PLoss','P_IO','I_b','I_cells', 'range');
+%%
+[range(end) t_sim(end)]
 
-                                         
-                                         toc
+
+toc
