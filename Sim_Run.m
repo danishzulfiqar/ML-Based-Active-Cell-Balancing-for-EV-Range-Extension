@@ -25,7 +25,7 @@ delta=5; %step size for simulation
 w_PL=0.0001;
 %The values of the weight matrix will be selected according to the
 %discussed criterion a) w_L1, w_L2, w_L3 ~[0,1], and w_PL~[0,0.0001]
-weights=[1;0;0;w_PL];% first value is the weight of cost L1, second is the weight for cost L2, third for cost L3 and the last or the power losses
+weights=[0;1;0;w_PL];% first value is the weight of cost L1, second is the weight for cost L2, third for cost L3 and the last or the power losses
 %%
 tf=19000;
 simout=sim('Range_ext_TCST_NoSDKF',tf);
