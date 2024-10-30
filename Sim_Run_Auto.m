@@ -3,16 +3,18 @@ clear
 close all
 clc
 
-Sim_Num = 2;  % Number of simulations to run
+Sim_Num = 100;  % Number of simulations to run
 Stop_SOC = 0.1;  % Stop simulation when any cell's SOC reaches this
 delta = 5;  % Step size for simulation
 
 % Drive cycle names and scaling factors
-% drive_cycles = {'FHDS_extended', 'FUDS_extended', 'FUDSfast_extended', 'NEDC_extended', 'US06City_extended', 'US06HW_extended', 'US06_extended'};
-% scaling_factors = [-2.5, -3.2, -5, -2.7, -5.7, -8, -8];
+drive_cycles = {'FHDS_extended', 'FUDS_extended', 'FUDSfast_extended', 'NEDC_extended', 'US06City_extended', 'US06HW_extended', 'US06_extended'};
+scaling_factors = [-2.5, -3.2, -5, -2.7, -5.7, -8, -8];
 
-drive_cycles = {'NEDC_extended', 'US06City_extended'};
-scaling_factors = [ -2.7, -5.7];
+% --------------------------------- For data collection purposes ---------------------------------
+% drive_cycles = {'NEDC_extended', 'US06City_extended'};
+% scaling_factors = [ -2.7, -5.7];
+
 
 % Loop through each simulation
 for sim_idx = 1:Sim_Num
