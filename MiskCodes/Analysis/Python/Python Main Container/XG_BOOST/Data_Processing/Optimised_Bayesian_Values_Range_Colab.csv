@@ -1,0 +1,8 @@
+w1,w2,w3,wPL,DC,Drive_Cycle,Optimal_Range_From_Transformer_Model
+1.0,1.0,0.0,0.0001000000,0,FHDS_extended,192.31
+0.76,0.14,0.15,0.0000710000,1,FUDS_extended,167.09
+0.88,0.74,0.1,0.0000160000,2,FUDSfast_extended,129.16
+0.94,0.6,0.03,0.0000980000,3,NEDC_extended,168.64
+0.88,0.84,0.0,0.0000950000,4,US06City_extended,146.15
+0.7,1.0,0.26,0.0000920000,5,US06HW_extended,147.68
+1.0,1.0,0.0,0.0001000000,6,US06_extended,149.65

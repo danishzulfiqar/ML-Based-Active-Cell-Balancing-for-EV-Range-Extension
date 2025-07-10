@@ -1,0 +1,16 @@
+Optimization started at 22-Feb-2025 16:32:16
+Using model at: /Users/danish/MATLAB-Drive/FYP/FYP Master/Range_ext_TCST_NoSDKF.slx
+Loading model: Range_ext_TCST_NoSDKF
+Model loaded successfully
+
+========== RUNNING TEST SIMULATION ==========
+Loading test drive cycle: /Users/danish/MATLAB-Drive/FYP/FYP Master/CurrentVelocityData/NEDC_extended.mat
+Testing with weights: w1=0.50, w2=0.50, w3=0.50, wPL=0.0000500
+
+Evaluating weights: w1=0.50, w2=0.50, w3=0.50, wPL=0.0000500 for NEDC_extended
+Starting simulation...
+Simulation error: Error due to multiple causes.
+Pausing for 3 seconds to allow model to reset...
+Test simulation completed. Range: -0.00
+========== TEST SIMULATION COMPLETED ==========
+

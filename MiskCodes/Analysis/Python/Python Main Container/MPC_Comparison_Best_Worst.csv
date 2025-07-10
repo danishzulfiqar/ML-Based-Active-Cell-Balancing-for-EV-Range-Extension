@@ -1,0 +1,13 @@
+w1,w2,w3,wPL,DC,DC_Name,Range,MPC_Range_from_Optamised_Weights
+1,0,0,0.0001,0,FHDS_extended,199.61,220.57
+0,1,0,0.0001,0,FHDS_extended,219.36,220.57
+0,0,1,0.0001,0,FHDS_extended,213.57,220.57
+1,0,0,0.0001,1,FUDS_extended,167.66,167.66
+0,1,0,0.0001,1,FUDS_extended,167.66,167.66
+0,0,1,0.0001,1,FUDS_extended,167.66,167.66
+1,0,0,0.0001,2,FUDSfast_extended,143.03,142.32
+0,1,0,0.0001,2,FUDSfast_extended,140.69,142.32
+0,0,1,0.0001,2,FUDSfast_extended,139.17,142.32
+
+
+

@@ -3,7 +3,7 @@ clear
 close all
 clc
 
-Sim_Num = 100;  % Number of simulations to run
+Sim_Num = 7;  % Number of simulations to run
 Stop_SOC = 0.1;  % Stop simulation when any cell's SOC reaches this
 delta = 5;  % Step size for simulation
 

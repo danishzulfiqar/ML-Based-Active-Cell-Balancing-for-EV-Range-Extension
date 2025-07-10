@@ -6,7 +6,7 @@ lb = [0, 0, 0, 0];
 ub = [1, 1, 1, 0.0001];
 
 % Number of random samples to evaluate
-num_samples = 3;
+num_samples = 2;
 
 % Initialize variables to store the best solution
 best_weights = [];

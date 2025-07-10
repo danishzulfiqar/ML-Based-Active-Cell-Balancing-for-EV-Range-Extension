@@ -1,0 +1,9 @@
+w1,w2,w3,wPL,DC,predicted_range,Range_from_Optimal_Weights
+1,0,0,0.0000002000,FUDS_extended,167.66,167.66
+0,1,0,0.0000002000,FUDS_extended,167.66,167.66
+0,0,1,0.0000002000,FUDS_extended,167.66,167.66
+1,0,0,0.0000002000,FUDSfast_extended,142.68,146.18
+0,1,0,0.0000002000,FUDSfast_extended,140.47,146.18
+0,0,1,0.0000002000,FUDSfast_extended,139.63,146.18
+0.95,0.97,0.81,0.0000002000,FUDS_extended,167.66
+0.95,0.97,0.81,0.0000002000,FUDSfast_extended,146.18
