@@ -6,6 +6,7 @@
 
 Final-year project · B.S. Electrical (Computer) Engineering · COMSATS University Islamabad · Aug 2024 – May 2025
 
+[![Documentation](https://img.shields.io/badge/Documentation-Read%20the%20project%20page-1d2836?logo=readthedocs&logoColor=white)](https://danishzulfiqar-projects.vercel.app/ev-cell-balancing)
 [![Preprint](https://img.shields.io/badge/Preprint-SSRN%207192447-305b8a)](https://doi.org/10.2139/ssrn.7192447)
 ![MATLAB](https://img.shields.io/badge/MATLAB%20%2F%20Simulink-plant%20%2B%20NMPC-b47b40?logo=mathworks&logoColor=white)
 ![CasADi](https://img.shields.io/badge/CasADi%20%2B%20IPOPT-NLP-202c3a)
@@ -20,6 +21,9 @@ Final-year project · B.S. Electrical (Computer) Engineering · COMSATS Universi
 <td align="center"><h2>R² 0.999</h2>surrogate accuracy<br><sub>TabPFN, test RMSE 0.56 km</sub></td>
 </tr>
 </table>
+
+
+> 📘 **Full write-up with figures:** [danishzulfiqar-projects.vercel.app/ev-cell-balancing](https://danishzulfiqar-projects.vercel.app/ev-cell-balancing)
 
 ## Overview
 
