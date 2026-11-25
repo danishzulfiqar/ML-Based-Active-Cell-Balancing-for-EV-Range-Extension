@@ -1,4 +1,7 @@
 GeneratedData/
 DataSets/
 slprj/
-.Ds_Store
+.DS_Store
+**/myenv/
+__pycache__/
+*.asv
