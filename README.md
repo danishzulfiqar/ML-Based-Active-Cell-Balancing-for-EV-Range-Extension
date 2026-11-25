@@ -22,7 +22,6 @@ Final-year project · B.S. Electrical (Computer) Engineering · COMSATS Universi
 </tr>
 </table>
 
-
 > 📘 **Full write-up with figures:** [danishzulfiqar-projects.vercel.app/ev-cell-balancing](https://danishzulfiqar-projects.vercel.app/ev-cell-balancing)
 
 ## Overview
